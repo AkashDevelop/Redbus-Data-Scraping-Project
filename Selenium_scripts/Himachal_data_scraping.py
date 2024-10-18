@@ -1,6 +1,3 @@
-
-
-#code 2
 import asyncio
 from selenium import webdriver
 from selenium.webdriver.common.by import By
