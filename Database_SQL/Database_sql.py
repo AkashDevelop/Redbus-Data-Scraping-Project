@@ -1,4 +1,3 @@
-
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -18,7 +17,6 @@ cleaned_data.rename(columns={
     'Star Rating': 'Star_Rating'
 }, inplace=True)
 
-# Create a connection to your database
 engine = create_engine("mysql+mysqlconnector://root:Hotwater&01@localhost/Red_bus_project")
 
 # Insert the data into the bus_routes table
