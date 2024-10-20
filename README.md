@@ -2,6 +2,10 @@
 
 This project scrapes bus data from the Redbus website for various routes in 10 different states using Selenium. The data is stored in a SQL database and presented in an interactive Streamlit application.
 
+![Streamlit App Screenshot](""E:\Red bus Project\Screenshots\Screenshot (10).png"")
+
+
+
 ## Installation
 
 1. Clone the repository:
