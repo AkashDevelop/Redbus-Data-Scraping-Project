@@ -55,11 +55,14 @@ streamlit run app.py
 * Interactive filters in Streamlit.
 
 # Project Focus:
- 
- * Provide users with a comprehensive overview of bus options available across different states.
- * Assist in travel planning by enabling users to compare routes, prices, and availability.
- * Serve as a foundation for further enhancements, such as adding user accounts, dynamic pricing analysis,
-   or integrating additional data sources.
+Provide users with a detailed overview of bus options across multiple states.
+
+Aid in travel planning by allowing users to compare routes, prices, and seat availability.
+
+Establish a foundation for future enhancements, such as:
+ 1) User accounts
+ 2) Dynamic pricing analysis
+ 3) Integration of additional data sources
 
 # Getting Started:
 
