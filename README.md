@@ -1,5 +1,10 @@
-# Redbus Data Scraping with Selenium & Streamlit
+![Screenshot (19)](https://github.com/user-attachments/assets/e69e128e-b72e-40db-bd6c-00b2afbfb1d3)
 
+
+
+
+# Redbus Data Scraping with ![Selenium](https://img.shields.io/badge/selenium-008000,?style=for-the-badge&logo=selenium&logoColor=#ffffff)  & ![Streamlit](https://img.shields.io/badge/streamlit-%23121011.svg?style=for-the-badge&logo=streamlit&logoColor=white) 📍
+![RedBus_Project](https://img.shields.io/badge/Info-blue)
 This project scrapes bus data from the Redbus website for various routes in 10 different states using Selenium. The data is stored in a SQL database and presented in an interactive Streamlit application.
 
 ![Streamlit App Screenshot](""E:\Red bus Project\Screenshots\Screenshot (10).png"")
@@ -9,7 +14,7 @@ This project scrapes bus data from the Redbus website for various routes in 10 d
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/Akash07061/Redbus-Data-Scraping-Project
+   git clone https:[AkashDevlop_Redbus-Data-Scraping-Project](https://github.com/AkashDevelop/Redbus_Data_Scraping_Project_with-selenium-and-streamlit)
 
 2. Navigate to the project directory:
    cd "Red bus Project"
@@ -20,6 +25,8 @@ This project scrapes bus data from the Redbus website for various routes in 10 d
 
 4. Install the required packages:
    pip install -r requirements.txt
+
+Skill Used: ![Selenium](https://img.shields.io/badge/selenium-008000,?style=for-the-badge&logo=selenium&logoColor=#ffffff) ![Streamlit](https://img.shields.io/badge/streamlit-%23121011.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ##Usage
 Run the Streamlit application:
