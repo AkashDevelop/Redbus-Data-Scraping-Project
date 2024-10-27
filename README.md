@@ -7,13 +7,13 @@
 ![RedBus_Project](https://img.shields.io/badge/INTRODUCTION-blue)
 This project demonstrates a comprehensive approach to web scraping, data storage, and real-time data visualization using Selenium, SQL, and Streamlit. Focusing on bus information from [Redbus](https://www.redbus.in/), a popular online bus ticketing platform, this project extracts route and bus details, stores them in a structured database, and provides a user-friendly interface for dynamic data filtering.
 
-# Project Goals
+# Project Goals  🚀 
  Automated Data Extraction: Using Selenium, we scrape data across multiple routes for a range of buses. Key details collected include bus names, types, departure times, seat availability, prices, ratings, and other route information.
  
 Data Storage: Data is stored in a SQL database, enabling structured querying and easy retrieval of information.
 
 Interactive Filtering Interface: A Streamlit application allows users to filter the data based on bus type, star ratings, prices, and more. This dynamic filtering approach helps users find specific buses that match their preferences.
-# project output
+# project output  🧐 
 
 [streamlit](https://github.com/user-attachments/assets/a20043a3-1506-4957-be99-acc40c2c9f82)
 
@@ -72,6 +72,10 @@ streamlit run app.py
  * Additional filters and sorting options.
  * Enhanced data visualization.
 
-##License:
+# License:
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
+
+<p align="center">
+Developed with ❤️ 
+</p>
