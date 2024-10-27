@@ -13,10 +13,9 @@ This project demonstrates a comprehensive approach to web scraping, data storage
 Data Storage: Data is stored in a SQL database, enabling structured querying and easy retrieval of information.
 
 Interactive Filtering Interface: A Streamlit application allows users to filter the data based on bus type, star ratings, prices, and more. This dynamic filtering approach helps users find specific buses that match their preferences.
+# project output
 
-[video](
-https://github.com/user-attachments/assets/e005da94-20da-4876-bbd3-36558371813b)
-
+[streamlit](https://github.com/user-attachments/assets/a20043a3-1506-4957-be99-acc40c2c9f82)
 
 ## Installation
 
