@@ -14,7 +14,8 @@ Data Storage: Data is stored in a SQL database, enabling structured querying and
 
 Interactive Filtering Interface: A Streamlit application allows users to filter the data based on bus type, star ratings, prices, and more. This dynamic filtering approach helps users find specific buses that match their preferences.
 
-[video](https://github.com/user-attachments/assets/0d542de5-7098-4e9b-9e55-678731619846)
+[video](
+https://github.com/user-attachments/assets/e005da94-20da-4876-bbd3-36558371813b)
 
 
 ## Installation
