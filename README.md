@@ -17,6 +17,17 @@ Interactive Filtering Interface: A Streamlit application allows users to filter 
 
 [streamlit](https://github.com/user-attachments/assets/a20043a3-1506-4957-be99-acc40c2c9f82)
 
+# Key Features
+* Real-Time Scraping: Collects up-to-date bus information for 10+ routes in Andhra Pradesh.
+Dynamic Filtering: Users can filter results based on multiple criteria like bus type, seat availability, route, and price range.
+
+* Top Route Recommendations: Highlights the top 3 routes based on user preferences, allowing for a more informed travel choice.
+
+* Map Visualization: Includes a static map for default location reference, centered around Coimbatore, for a geographical perspective.
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Maintainer](https://img.shields.io/badge/maintainer-Akash-blue)
+
 ## Installation
 
 1. Clone the repository:
@@ -32,30 +43,30 @@ Interactive Filtering Interface: A Streamlit application allows users to filter 
 4. Install the required packages:
    pip install -r requirements.txt
 
-Skill Used: ![Selenium](https://img.shields.io/badge/selenium-008000,?style=for-the-badge&logo=selenium&logoColor=#ffffff) ![Streamlit](https://img.shields.io/badge/streamlit-%23121011.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# Skill Used: ![Selenium](https://img.shields.io/badge/selenium-008000,?style=for-the-badge&logo=selenium&logoColor=#ffffff) ![Streamlit](https://img.shields.io/badge/streamlit-%23121011.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-##Usage
+# Usage
 Run the Streamlit application:
 streamlit run app.py
 
-##Features
+# Features
 * Scrapes bus data across 10 states.
 * Data stored in SQL.
 * Interactive filters in Streamlit.
 
-##Project Focus:
+# Project Focus:
  
  * Provide users with a comprehensive overview of bus options available across different states.
  * Assist in travel planning by enabling users to compare routes, prices, and availability.
  * Serve as a foundation for further enhancements, such as adding user accounts, dynamic pricing analysis,
    or integrating additional data sources.
 
-##Getting Started:
+# Getting Started:
 
  * Python 3.x
  * Basic knowledge of SQL and Streamlit
 
-##Future Improvements:
+# Future Improvements:
 
  * User authentication for personalized experiences.
  * Additional filters and sorting options.
